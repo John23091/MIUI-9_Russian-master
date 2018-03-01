@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Резервное копирование каждые %d дней</item>
+        <item quantity="one">Резервное копирование каждый день</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">%1$s резервных копий, размер: %2$s</item>
+        <item quantity="one">%1$s резервная копия, размер: %2$s</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">Восстановление %d файлов</item>
+        <item quantity="one">Восстановление %d файла</item>
+    </plurals>
+</resources>

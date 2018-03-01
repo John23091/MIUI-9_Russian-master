@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Отключено</item>
+        <item>Показывать области наложения</item>
+        <item>Показывать области для дейтераномалии</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Зарядка</item>
+        <item>MTP (Передача файлов)</item>
+        <item>PTP (Передача изображений)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Источник аудио</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="region_support_volte">
+        <item>HK;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron</item>
+        <item>CN</item>
+        <item>IN</item>
+        <item>MY</item>
+        <item>RU;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron</item>
+        <item>UA;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron</item>
+        <item>KP;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron</item>
+        <item>KH;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron</item>
+        <item>US;scorpio,chiron</item>
+        <item>TW;sagit,chiron</item>
+    </string-array>
+</resources>

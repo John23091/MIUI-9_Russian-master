@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Найдено %d элементов</item>
+        <item quantity="one">Найден %d элемент</item>
+        <item quantity="few">Найдено %d элемента</item>
+        <item quantity="many">Найдено %d элементов</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Удалить %d элементов?</item>
+        <item quantity="one">Удалить %d элемент?</item>
+        <item quantity="few">Удалить %d элемента?</item>
+        <item quantity="many">Удалить %d элементов?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Найдено %d</item>
+        <item quantity="one">Найден %d</item>
+    </plurals>
+</resources>

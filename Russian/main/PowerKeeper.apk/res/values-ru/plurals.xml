@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d выбрано</item>
+        <item quantity="one">%1$d выбрано</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d приложений</item>
+        <item quantity="one">%d приложение</item>
+    </plurals>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">Осталось %1$d нажатий для включения максимального фонового режима</item>
+        <item quantity="one">Осталось %1$d нажатие для включения максимального фонового режима</item>
+        <item quantity="few">Осталось %1$d нажатия для включения максимального фонового режима</item>
+        <item quantity="many">Осталось %1$d нажатий для включения максимального фонового режима</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">Осталось %1$d нажатий для отключения максимального фонового режима</item>
+        <item quantity="one">Осталось %1$d нажатие для отключения максимального фонового режима</item>
+        <item quantity="few">Осталось %1$d нажатия для отключения максимального фонового режима</item>
+        <item quantity="many">Осталось %1$d нажатий для отключения максимального фонового режима</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Осталось %1$d нажатий для разблокировки всех функций</item>
+        <item quantity="one">Осталось %1$d нажатие для разблокировки всех функций</item>
+        <item quantity="few">Осталось %1$d нажатия для разблокировки всех функций</item>
+        <item quantity="many">Осталось %1$d нажатий для разблокировки всех функций</item>
+    </plurals>
+</resources>

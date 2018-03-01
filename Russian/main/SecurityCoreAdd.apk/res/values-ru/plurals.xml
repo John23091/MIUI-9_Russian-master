@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d элементов</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемента</item>
+        <item quantity="many">%d элементов</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d уведомлений в Первом пространстве</item>
+        <item quantity="one">%d уведомление в Первом пространстве</item>
+        <item quantity="few">%d уведомления в Первом пространстве</item>
+        <item quantity="many">%d уведомлений в Первом пространстве</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d уведомлений во Втором пространстве</item>
+        <item quantity="one">%d уведомление во Втором пространстве</item>
+        <item quantity="few">%d уведомления во Втором пространстве</item>
+        <item quantity="many">%d уведомлений во Втором пространстве</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Поиск (%d приложений)</item>
+        <item quantity="one">Поиск (%d приложение)</item>
+        <item quantity="few">Поиск (%d приложения)</item>
+    </plurals>
+</resources>

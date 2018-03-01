@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">Данные %d системных приложений</item>
+        <item quantity="one">Данные %d системного приложения</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">Данные %d приложений</item>
+        <item quantity="one">Данные %d приложения</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d элементов</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемента</item>
+        <item quantity="many">%d элементов</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d элементов,</item>
+        <item quantity="one">%d элемент,</item>
+        <item quantity="few">%d элемента,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d элементов</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемента</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">"%d часов "</item>
+        <item quantity="one">"%d час "</item>
+        <item quantity="few">"%d часа "</item>
+        <item quantity="many">"%d часов "</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d элементов</item>
+        <item quantity="one">%1$s | %2$d элемент</item>
+        <item quantity="few">%1$s | %2$d элемента</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">элементов</item>
+        <item quantity="one">элемент</item>
+        <item quantity="few">элемента</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Восстановлено %d элементов</item>
+        <item quantity="one">Восстановлено %d элемент</item>
+        <item quantity="few">Восстановлено %d элемента</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Импортировано и восстановлено %d элементов</item>
+        <item quantity="one">Импортировано и восстановлено %d элемент</item>
+        <item quantity="few">Импортировано и восстановлено %d элемента</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">Импортировано %d элементов.</item>
+        <item quantity="one">Импортировано %d элемент.</item>
+        <item quantity="few">Импортировано %d элемента.</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Импортируйте %d элементов снова.</item>
+        <item quantity="one">Импортируйте %d элемент снова.</item>
+        <item quantity="few">Импортируйте %d элемента снова.</item>
+    </plurals>
+</resources>

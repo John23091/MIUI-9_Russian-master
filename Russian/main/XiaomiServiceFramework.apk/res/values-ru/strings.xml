@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервисы Xiaomi</string>
+    <string name="error_device_id_message">"Неверный ID устройства: %s
+Идентификатором устройства должен быть IMEI или MAC-адрес. Без ID устройства некоторые функции будут недоступны."</string>
+    <string name="error_device_id_title">Не удаётся получить ID устройства</string>
+    <string name="explain_send_sms_permission_button">Отправить</string>
+    <string name="explain_send_sms_permission_msg">Чтобы включить «%s», необходимо отправить SMS для подтверждения Вашего номера телефона. Оплата согласно тарифам Вашего оператора.</string>
+    <string name="explain_send_sms_permission_title">Подтвердите номер телефона</string>
+    <string name="sync_notification_title_format">Синхронизация: %1$s</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xmsf_activate_info">Информация активации XMSF</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Попытка включить WLAN</item>
+        <item>Попытка включить BT</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Чтобы совершать звонки и отправлять сообщения по Wi-Fi, сначала необходимо подключить эту услугу у оператора. Затем снова включите Wi-Fi звонки в настройках.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Зарегистрируйтесь через оператора</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Wi-Fi звонки (%s)</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Попробуйте еще раз</item>
+        <item></item>
+        <item></item>
+        <item>Полностью накройте сканер отпечатка и прижмите палец</item>
+        <item></item>
+        <item>Полностью накройте сканер отпечатка и прижмите палец</item>
+        <item>Полностью накройте сканер отпечатка и прижмите палец</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Полностью накройте сканер отпечатка и прижмите палец</item>
+        <item>Полностью накройте сканер отпечатка и прижмите палец</item>
+        <item>Слишком быстро! Не удалось распознать отпечаток</item>
+        <item>Немного переместите свой палец и повторите попытку</item>
+        <item>Поднимите палец и снова верните его на сканер</item>
+        <item>Держите палец на сканере немного дольше</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Немного пошевелите пальцем</item>
+        <item>Этот отпечаток был добавлен, используйте другой палец</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+    </string-array>
+</resources>

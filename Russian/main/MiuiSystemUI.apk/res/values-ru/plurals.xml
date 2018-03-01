@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d недавних приложений</item>
+        <item quantity="one">%d недавнее приложение</item>
+        <item quantity="few">%d недавних приложения</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Открыты Недавние, приложений: %d.</item>
+        <item quantity="one">Открыты Недавние, приложений: %d.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Открыты Недавние, приложений: %d. Проведите вверх для закрытия, вниз для закрепления.</item>
+        <item quantity="one">Открыты Недавние, приложений: %d. Проведите вверх для закрытия, вниз для закрепления.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">Активно %1$d переключателей, что выше</item>
+        <item quantity="one">Активен %1$d переключатель, что выше</item>
+        <item quantity="few">Активно %1$d переключателя, что выше</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Выбрано %d приложений</item>
+        <item quantity="zero">Выбрано %d приложений</item>
+        <item quantity="one">Выбрано %d приложение</item>
+        <item quantity="two">Выбрано %d приложения</item>
+        <item quantity="few">Выбрано %d приложения</item>
+        <item quantity="many">Выбрано %d приложений</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Скрытие уведомлений для %1$s и еще %2$d приложений.</item>
+        <item quantity="one">Скрытие уведомлений для %1$s и еще %2$d приложения.</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Ясно</item>
+        <item quantity="one">Ясно</item>
+    </plurals>
+    <plurals name="accessibility_desc_weather_temperature">
+        <item quantity="other">Температура %d градусов</item>
+        <item quantity="zero">Температура %d градусов</item>
+        <item quantity="one">Температура %d градус</item>
+        <item quantity="few">Температура %d градуса</item>
+    </plurals>
+    <plurals name="notification_group_child_count">
+        <item quantity="other">%1$d уведомлений</item>
+        <item quantity="one">%1$d уведомление</item>
+        <item quantity="few">%1$d уведомления</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Сгруппировано %s уведомлений.</item>
+        <item quantity="one">Сгруппировано %s уведомление.</item>
+        <item quantity="few">Сгруппировано %s уведомления.</item>
+    </plurals>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d неважных уведомлений</item>
+        <item quantity="one">%d неважное уведомление</item>
+        <item quantity="few">%d неважных уведомления</item>
+    </plurals>
+</resources>

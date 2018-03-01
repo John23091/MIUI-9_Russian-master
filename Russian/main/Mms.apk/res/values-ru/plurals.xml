@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Удалить %1$s сообщений?</item>
+        <item quantity="one">Удалить %1$s сообщение?</item>
+        <item quantity="few">Удалить %1$s сообщения?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d сообщений</item>
+        <item quantity="zero">%d сообщений</item>
+        <item quantity="one">%d сообщение</item>
+        <item quantity="few">%d сообщения</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d сообщений не синхронизировано</item>
+        <item quantity="one">%d сообщение не синхронизировано</item>
+        <item quantity="few">%d сообщения не синхронизировано</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить %1$s цепочек сообщений?</item>
+        <item quantity="one">Удалить %1$s цепочку сообщений?</item>
+        <item quantity="few">Удалить %1$s цепочки сообщений?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="zero">Выбрано: %d</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">Не удалось отправить %d контактам</item>
+        <item quantity="one">Не удалось отправить %d контакту</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d сообщений</item>
+        <item quantity="zero">%d сообщений</item>
+        <item quantity="one">%d сообщение</item>
+        <item quantity="few">%d сообщения</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s сообщений</item>
+        <item quantity="zero">Нет сообщений</item>
+        <item quantity="one">%1$s сообщение</item>
+        <item quantity="few">%1$s сообщения</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s получателей</item>
+        <item quantity="one">%1$s получатель</item>
+        <item quantity="few">%1$s получателя</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск «%2$s» (%1$s)</item>
+        <item quantity="one">Поиск «%2$s» (%1$s)</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">Отправить %1$s сообщений</item>
+        <item quantity="one">Отправить %1$s сообщение</item>
+        <item quantity="few">Отправить %1$s сообщения</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d с.</item>
+        <item quantity="one">%d с.</item>
+        <item quantity="few">%d с.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d с.</item>
+        <item quantity="one">%d с.</item>
+        <item quantity="few">%d с.</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">Не отправлено %d сообщений (истекло время)</item>
+        <item quantity="one">Не отправлено %d сообщение (истекло время)</item>
+        <item quantity="few">Не отправлено %d сообщения (истекло время)</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d сообщений)</item>
+        <item quantity="one">(%d сообщение)</item>
+        <item quantity="few">(%d сообщения)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d получателей</item>
+        <item quantity="one">%d получатель</item>
+        <item quantity="few">%d получателя</item>
+    </plurals>
+</resources>

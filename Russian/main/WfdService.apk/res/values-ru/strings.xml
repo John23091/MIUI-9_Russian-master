@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба WFD</string>
+    <string name="perm_label">Стек WFD Qualcomm</string>
+    <string name="perm_desc">Доступ к стеку API WFD Qualcomm.</string>
+    <string name="notification_title">Wi-Fi дисплей</string>
+    <string name="notification_text">Проекция включена</string>
+</resources>

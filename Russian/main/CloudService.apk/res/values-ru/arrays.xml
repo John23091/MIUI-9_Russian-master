@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Синхронизация данных приложения</item>
+        <item>Резервное копирование Начального экрана</item>
+        <item>Резервное копирование системных настроек</item>
+        <item>Найти устройство</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Синхронизация контактов, сообщений, заметок, календаря и т.д.</item>
+        <item>Резервное копирование приложений, раскладка основного экрана и обои</item>
+        <item>Резервное копирование важных параметров, включая WLAN и дисплей</item>
+        <item>Блокируйте устройство удаленно, если оно потеряно</item>
+    </string-array>
+</resources>

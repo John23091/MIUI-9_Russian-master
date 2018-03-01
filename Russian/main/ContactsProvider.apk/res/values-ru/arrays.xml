@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_four_map">
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>и</item>
+        <item>й</item>
+        <item>к</item>
+        <item>л</item>
+    </string-array>
+    <string-array name="number_seven_map">
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>ф</item>
+        <item>х</item>
+        <item>ц</item>
+        <item>ч</item>
+    </string-array>
+    <string-array name="number_eight_map">
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>ъ</item>
+        <item>Ы</item>
+        <item>ш</item>
+        <item>щ</item>
+        <item>ъ</item>
+        <item>ы</item>
+    </string-array>
+    <string-array name="number_two_map">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>а</item>
+        <item>б</item>
+        <item>в</item>
+        <item>г</item>
+    </string-array>
+    <string-array name="number_five_map">
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>м</item>
+        <item>н</item>
+        <item>о</item>
+        <item>п</item>
+    </string-array>
+    <string-array name="number_one_map">
+        <item>-</item>
+    </string-array>
+    <string-array name="number_six_map">
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>р</item>
+        <item>с</item>
+        <item>т</item>
+        <item>у</item>
+    </string-array>
+    <string-array name="number_zero_map">
+        <item>+</item>
+    </string-array>
+    <string-array name="number_three_map">
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>д</item>
+        <item>е</item>
+        <item>ё</item>
+        <item>ж</item>
+        <item>з</item>
+    </string-array>
+    <string-array name="number_nine_map">
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>ь</item>
+        <item>э</item>
+        <item>ю</item>
+        <item>я</item>
+    </string-array>
+</resources>

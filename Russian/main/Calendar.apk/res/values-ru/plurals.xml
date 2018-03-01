@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">За %d дн.</item>
+        <item quantity="one">За %d дн.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">За %d ч.</item>
+        <item quantity="one">За %d ч.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">За %d мин.</item>
+        <item quantity="one">За %d мин.</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d неделя</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">Через %1$d дней в %2$s</item>
+        <item quantity="one">Через %1$d день в %2$s</item>
+        <item quantity="few">Через %1$d дня в %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">За %1$d дней в %2$s</item>
+        <item quantity="one">За %1$d день в %2$s</item>
+        <item quantity="few">За %1$d дня в %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">За %d недель</item>
+        <item quantity="one">За %d неделю</item>
+        <item quantity="few">За %d недели</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s дней</item>
+        <item quantity="one">%1$s день</item>
+        <item quantity="few">%1$s дня</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Годовщина: через 3 дня %2$d лет спустя %1$s</item>
+        <item quantity="one">Годовщина: через 3 дня %2$d год спустя %1$s</item>
+        <item quantity="few">Годовщина: через 3 дня %2$d года спустя %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Годовщина: %2$d лет спустя %1$s</item>
+        <item quantity="one">Годовщина: %2$d год спустя %1$s</item>
+        <item quantity="few">Годовщина: %2$d года спустя %1$s</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s лет</item>
+        <item quantity="one">%1$s год</item>
+        <item quantity="few">%1$s года</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d дней прошло</item>
+        <item quantity="one">%1$d день прошёл</item>
+        <item quantity="few">%1$d дня прошло</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d дней до</item>
+        <item quantity="one">%1$d день до</item>
+        <item quantity="few">%1$d дня до</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s лет</item>
+        <item quantity="one">%1$s год</item>
+        <item quantity="few">%1$s года</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">%1$s дней осталось</item>
+        <item quantity="one">%1$s день остался</item>
+        <item quantity="few">%1$s дня осталось</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дня</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d дней до</item>
+        <item quantity="one">%1$d день до</item>
+        <item quantity="few">%1$d дня до</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">Через %1$d дней</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дня</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d дней до</item>
+        <item quantity="one">%1$d день до</item>
+        <item quantity="few">%1$d дня до</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Не более %1$d дней</item>
+        <item quantity="one">Не более %1$d день</item>
+        <item quantity="few">Не более %1$d дня</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дня</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d месяцев</item>
+        <item quantity="one">%1$d месяц</item>
+        <item quantity="few">%1$d месяца</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d недель</item>
+        <item quantity="one">%1$d неделя</item>
+        <item quantity="few">%1$d недели</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$s лет</item>
+        <item quantity="one">%1$s год</item>
+        <item quantity="few">%1$s года</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d рабочих дней</item>
+        <item quantity="one">%d рабочий день</item>
+        <item quantity="few">%d рабочих дня</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">Через %1$d дней</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дня</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">За %1$d дней</item>
+        <item quantity="one">За %1$d день</item>
+        <item quantity="few">За %1$d дня</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d событий</item>
+        <item quantity="one">+1 событие</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d событий</item>
+        <item quantity="one">%d событие</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Каждые %d дней</item>
+        <item quantity="one">Ежедневно</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d раз</item>
+        <item quantity="one">; %d раз</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Для %d событий</item>
+        <item quantity="one">Для %d события</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Каждые %d дней</item>
+        <item quantity="one">Каждый %d день</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Каждые %d месяцев</item>
+        <item quantity="one">Каждый %d месяц</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Каждые %d недель</item>
+        <item quantity="one">Каждую %d неделю</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Каждые %d лет</item>
+        <item quantity="one">Каждый %d год</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Каждые %1$d недель в %2$s</item>
+        <item quantity="one">Каждую неделю в %2$s</item>
+    </plurals>
+</resources>

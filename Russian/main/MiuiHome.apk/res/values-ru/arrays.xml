@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Обои</item>
+        <item>Виджеты</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Сильный ливень</item>
+        <item>Сильный дождь</item>
+        <item>Ливень с ураганом</item>
+        <item>Гроза</item>
+        <item>Ливень</item>
+        <item>Сильный дождь</item>
+        <item>Дождь</item>
+        <item>Небольшой дождь</item>
+        <item>Дождь со снегом</item>
+        <item>Метель</item>
+        <item>Снегопад</item>
+        <item>Сильный снегопад</item>
+        <item>Снег</item>
+        <item>Небольшой снег</item>
+        <item>Сильная пыльная буря</item>
+        <item>Пыльная буря</item>
+        <item>Пыль</item>
+        <item>Пыльная буря</item>
+        <item>Град</item>
+        <item>Пыль</item>
+        <item>Смог</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Стандартный</item>
+        <item>Классический</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Сдвиг</item>
+        <item>Угасание</item>
+        <item>Поворот</item>
+        <item>Страница</item>
+        <item>Каскад</item>
+        <item>Вращение</item>
+        <item>Куб</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>По умолчанию темы</item>
+        <item>По центру</item>
+        <item>Слева</item>
+        <item>Справа</item>
+    </string-array>
+    <string-array name="transformation_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="lowkeymidrop">
+        <item>CN</item>
+        <item>EC</item>
+        <item>CR</item>
+        <item>DE</item>
+        <item>LU</item>
+        <item>SE</item>
+        <item>VE</item>
+        <item>KH</item>
+        <item>GH</item>
+        <item>NZ</item>
+        <item>IT</item>
+        <item>NG</item>
+        <item>SK</item>
+        <item>TT</item>
+        <item>PA</item>
+        <item>LV</item>
+        <item>RS</item>
+        <item>AU</item>
+        <item>FR</item>
+        <item>CA</item>
+        <item>NL</item>
+        <item>NO</item>
+        <item>AT</item>
+        <item>DO</item>
+        <item>PL</item>
+        <item>MK</item>
+        <item>LT</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>AR</item>
+        <item>CH</item>
+        <item>BE</item>
+        <item>ES</item>
+        <item>HU</item>
+        <item>GB</item>
+        <item>DK</item>
+        <item>KR</item>
+        <item>IE</item>
+        <item>SI</item>
+        <item>FI</item>
+        <item>VN</item>
+        <item>HR</item>
+        <item>US</item>
+        <item>PR</item>
+        <item>BA</item>
+        <item>JP</item>
+        <item>UY</item>
+        <item>RU</item>
+        <item>UK</item>
+    </string-array>
+</resources>

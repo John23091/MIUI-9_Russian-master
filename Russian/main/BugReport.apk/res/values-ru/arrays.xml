@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reproductivity">
+        <item>Каждый раз</item>
+        <item>Часто</item>
+        <item>Иногда</item>
+        <item>1 раз</item>
+    </string-array>
+</resources>

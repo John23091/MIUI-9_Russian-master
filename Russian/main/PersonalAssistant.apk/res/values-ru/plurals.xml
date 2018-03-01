@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_day">
+        <item quantity="other">В %d дней</item>
+        <item quantity="one">В %d день</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
+        <item quantity="many">%1$d дней назад</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d часов назад</item>
+        <item quantity="one">%1$d час назад</item>
+        <item quantity="few">%1$d часа назад</item>
+        <item quantity="many">%1$d часов назад</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Удалить %s элементов из избранных?</item>
+        <item quantity="one">Удалить %s элемет из избранных?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Отмеченный %s как важные</item>
+        <item quantity="one">Отмеченный %s как важный</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Выбрано %s элементов</item>
+        <item quantity="one">Выбран %s элемент</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d минут назад</item>
+        <item quantity="one">%1$d минуту назад</item>
+        <item quantity="few">%1$d минуты назад</item>
+        <item quantity="many">%1$d минут назад</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Удалить %s предметы от оплаты?</item>
+        <item quantity="one">Удалить %s предмет от оплаты?</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Выбрано %s элементов</item>
+        <item quantity="one">Выбран %s элемент</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">В %d дней</item>
+        <item quantity="one">В %d день</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">В %d часов</item>
+        <item quantity="one">В %d час</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">В %d минут</item>
+        <item quantity="one">В %d минут</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минут</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|шагов</item>
+        <item quantity="zero">%d|шагов</item>
+        <item quantity="one">%d|шаг</item>
+        <item quantity="few">%d|шага</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">%d час назад</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">%d минуту назад</item>
+    </plurals>
+</resources>

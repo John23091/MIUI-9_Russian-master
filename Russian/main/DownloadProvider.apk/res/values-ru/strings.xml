@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">Не хватает памяти на SD-карте</string>
+    <string name="dialog_insufficient_space_on_cache">Не хватает внутренней памяти</string>
+    <string name="auto_restart_under_wifi">Автоматически загрузить этот файл через Wi-Fi</string>
+    <string name="task_already_exist">Задание уже существует</string>
+    <string name="privacy_tip_title">Использовать сервис Xunlei?</string>
+    <string name="privacy_tip_content">Использовать сервис ускорения загрузок Xunlei?</string>
+    <string name="privacy_tip_cancel">Отмена</string>
+    <string name="privacy_tip_ok">Да</string>
+    <string name="privacy_notif_title">Сервис загрузок Xunlei включён</string>
+    <string name="privacy_notif_content">Нажмите для подробностей</string>
+    <string name="notif_text_engine_on">Загрузка…</string>
+    <string name="notif_text_engine_off">Ускорение Xunlei выключено</string>
+    <string name="notif_title_single_downloading">Загрузка %1$s</string>
+    <string name="notif_title_multiple_downloading">Загрузка файлов: %1$d</string>
+    <string name="notif_title_file_size">Всего: %1$d</string>
+    <string name="paused_waiting_for_network">Ожидание сети</string>
+    <string name="warning_tip_title">Дополнительные расходы</string>
+    <string name="warning_tip_content">Ваш Wi-Fi отключился. Продолжая загружать файл, Вы можете понести дополнительные расходы. Мы рекомендуем вам поставить загрузку файла на паузу.</string>
+    <string name="warning_tip_cancel">Отмена</string>
+    <string name="warning_tip_ok">OK</string>
+    <string name="dialog_not_show_again">Не показывать снова</string>
+    <string name="notification_download_complete">Загрузка завершена</string>
+    <string name="notification_download_failed">Не удалось загрузить</string>
+    <string name="notification_download_success_more">Загружено: %1$d</string>
+    <string name="notification_download_failed_more">Не удалось загрузить %1$d</string>
+    <string name="mobile_recommended_title">Использование трафика</string>
+    <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки этого файла?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
+    <string name="button_wait_for_wifi">Ожидать</string>
+    <string name="button_download_now">Загрузить</string>
+    <string name="insufficient_space">Недостаточно места во внутренней памяти</string>
+    <string name="enter_garbage_clean">Выполнить очистку</string>
+    <string name="download_apk_desktop_pending">Ожидание</string>
+    <string name="download_apk_desktop_pause">Пауза</string>
+    <string name="download_apk_desktop_running">Загрузка</string>
+    <string name="download_apk_desktop_installing">Установка</string>
+    <string name="xl_speedup_experience_notify_title">Xunlei membership</string>
+    <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
+    <string name="xl_speedup_notify_button_experience">Try for free</string>
+    <string name="xl_speedup_notify_button_member">Become a member</string>
+    <string name="notify_disabled_net_by_app">Доступ к интернету запрещён приложением «Сервис»</string>
+    <string name="notify_only_wifi_download">Ожидание Wi-Fi</string>
+    <string name="notify_install_guide_title">%s установлено</string>
+    <string name="notify_install_guide_msg">Открыть</string>
+    <string name="notify_install_guide_forward_text">Открыть</string>
+    <string name="dialog_data_limit_title">Предупреждение о трафике</string>
+    <string name="dialog_data_limit_msg1">%s мобильного трафика будет использовано для загрузки этого файла. Продолжить загрузку?</string>
+    <string name="dialog_data_limit_msg3">Изменить лимит</string>
+    <string name="dialog_data_limit_button1">Ожидать WI-Fi</string>
+    <string name="dialog_data_limit_button2">Загрузить</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">Отмена</string>
+    <string name="dialog_tip_limit">Предупреждать, если размер загружаемого файла больше чем %s</string>
+    <string name="dialog_tip_no_limit">Не предупреждать</string>
+    <string name="dialog_tip_limit0">Предупреждать каждый раз</string>
+    <string name="dialog_content_limit_max">Без ограничений</string>
+    <string name="dialog_content_limit0">Запретить загрузки</string>
+    <string name="app_label">Диспетчер загрузок</string>
+    <string name="permlab_downloadManager">Доступ к менеджеру загрузки</string>
+    <string name="permdesc_downloadManager">Приложение получит доступ к диспетчеру загрузок и сможет загружать файлы через него. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию.</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки</string>
+    <string name="permdesc_downloadManagerAdvanced">Приложение получит доступ к расширенным функциям диспетчера загрузок. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию.</string>
+    <string name="permlab_downloadCompletedIntent">Отправить оповещение о загрузке</string>
+    <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершённых загрузках. Вредоносные программы смогут таким образом мешать работе приложений, загружающих файлы.</string>
+    <string name="permlab_seeAllExternal">Доступ ко всем загрузкам на SD-карте</string>
+    <string name="permdesc_seeAllExternal">Приложение получит доступ ко всем загрузкам на SD-карте независимо от того, через какое ПО они были загружены.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервировать место в кэше загрузки</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузки потребуется больше места.</string>
+    <string name="permlab_downloadWithoutNotification">Загружать файлы без уведомления</string>
+    <string name="permdesc_downloadWithoutNotification">Приложение сможет загружать файлы через диспетчер загрузок без уведомления пользователя.</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
+    <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены.</string>
+    <string name="download_unknown_title">&lt;Без названия></string>
+    <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
+    <string name="notification_paused_in_background">Загрузка приостановлена</string>
+    <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
+    <string name="wifi_required_body" formatted="false">"Для завершения загрузки файла размером %s необходимо подключение к сети Wi-Fi.
+
+Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s."</string>
+    <string name="wifi_recommended_title">Загрузки</string>
+    <string name="wifi_recommended_body" formatted="false">"О загрузке через мобильный интернет:
+
+ %s(%s)
+\u0009 
+Загрузка файла может привести к дополнительным расходам."</string>
+    <string name="button_queue_for_wifi">Добавить в очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Запустить</string>
+    <string name="download_remaining">Осталось: %s</string>
+    <string name="download_no_application_title">Не удалось открыть файл</string>
+    <string name="root_downloads">Загрузки</string>
+    <string name="download_queued">В очереди</string>
+    <string name="download_running">Загрузка</string>
+    <string name="download_error">Ошибка загрузки</string>
+    <string name="download_running_percent">Загрузка: %d%%</string>
+    <string name="channel_active">下载中</string>
+    <string name="channel_waiting">等待中</string>
+    <string name="channel_insufficient_space">空间不足</string>
+    <string name="channel_complete">下载完成</string>
+</resources>

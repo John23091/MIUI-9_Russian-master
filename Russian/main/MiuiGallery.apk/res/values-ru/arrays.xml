@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>Мальчик</item>
+        <item>Девочка</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Отец</item>
+        <item>Мать</item>
+        <item>Дедушка отца</item>
+        <item>Бабушка отца</item>
+        <item>Дедушка матери</item>
+        <item>Бабушка матери</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Дети</item>
+        <item>Семья</item>
+        <item>Колеги</item>
+        <item>Одноклассники</item>
+        <item>Друзья</item>
+        <item>Неизвестные</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Отец</item>
+        <item>Мать</item>
+        <item>Дедушка отца</item>
+        <item>Бабушка отца</item>
+        <item>Дедушка матери</item>
+        <item>Бабушка матери</item>
+    </string-array>
+</resources>

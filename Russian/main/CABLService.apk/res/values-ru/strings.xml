@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Адаптивная подсветка</string>
+    <string name="cabl_settings_title">Адаптивная подсветка</string>
+    <string name="cabl_enable_title">Включить адаптивную подсветку</string>
+    <string name="cabl_enable_summary_on">Подсветка будет изменяться в зависимости от смены освещённости</string>
+    <string name="cabl_enable_summary_off">Подсветка не будет изменяться в зависимости от смены освещённости</string>
+    <string name="cabl_levels_title">Уровень визуального качества</string>
+    <string name="cabl_levels_summary">Более низкий уровень визуального качества указывает, что \"Адаптивная подсветка\" попытается сохранить как можно больше энергии без существенного влияния на отображаемый контент. Автоматический уровень визуального качества означает, что \"Адаптивная подсветка\" будет пытаться максимизировать экономию энергии на основе автоматического определения типа отображаемого содержимого.</string>
+    <string name="cabl_level_default">Авто</string>
+    <string name="cabl_info_default">Неизвестно</string>
+    <string name="cabl_version_title">Версия CABL</string>
+</resources>

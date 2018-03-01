@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="zero">Обновлено %s контактов</item>
+        <item quantity="one">Обновлён %s контакт</item>
+        <item quantity="few">Обновлено %s контакта</item>
+        <item quantity="many">Обновлено %s контактов</item>
+    </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">Просмотр всех %d устройств</item>
+        <item quantity="one">Просмотр %d устройства</item>
+    </plurals>
+    <plurals name="view_all_apps">
+        <item quantity="other">Просмотр всех %d приложений</item>
+        <item quantity="one">Просмотр %d приложения</item>
+    </plurals>
+    <plurals name="view_all_browsers">
+        <item quantity="other">Просмотр всех %d браузеров</item>
+        <item quantity="one">Просмотр %d браузера</item>
+    </plurals>
+</resources>

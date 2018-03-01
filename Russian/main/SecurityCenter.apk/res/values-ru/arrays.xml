@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"За неделю "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"За неделю: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Моб. трафик вчера</item>
+        <item>Моб. трафик сегодня</item>
+        <item>Моб. трафик за месяц</item>
+        <item>Wi-Fi трафик вчера</item>
+        <item>Wi-Fi трафик сегодня</item>
+        <item>Wi-Fi трафик за месяц</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Моб. трафик "</item>
+        <item>"Wi-Fi трафик "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Моб. трафик "</item>
+        <item>"Wi-Fi трафик "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Предупредить</item>
+        <item>Откл. моб. интернет</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Включить</item>
+        <item>Для исключений</item>
+        <item>Отключить</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>После блокировки устройства</item>
+        <item>После закрытия приложения</item>
+        <item>Через минуту после закрытия приложения</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>По состоянию</item>
+        <item>По имени</item>
+        <item>По использованию</item>
+        <item>По размеру</item>
+        <item>По времени установки</item>
+        <item>По возможности удаления</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Сортировать по состоянию</item>
+        <item>Сортировать по имени</item>
+        <item>Сортировать по использованию</item>
+        <item>Сортировать по размеру</item>
+        <item>Сортировать по времени установки</item>
+        <item>Сортировать по возможности удаления</item>
+    </string-array>
+    <string-array name="always_enabled_app_list">
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.miui.providers.userbook</item>
+        <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
+        <item>com.miui</item>
+        <item>com.android.htmlviewer</item>
+        <item>com.google.android.packageinstaller</item>
+        <item>com.miui.core</item>
+        <item>com.xiaomi.hm.health</item>
+        <item>com.samsung.android.app.watchmanager</item>
+        <item>com.samsung.android.gearoplugin</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Источник установки</item>
+        <item>Время установки</item>
+        <item>Источник обновления</item>
+        <item>Последнее обновление</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Использование трафика</item>
+        <item>Баланс телефона</item>
+    </string-array>
+    <string-array name="luckymoney_sound">
+        <item>静音</item>
+        <item>金币</item>
+        <item>红包来了</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Уведомить и отключить</item>
+        <item>Уведомить</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Рабочие дни</item>
+        <item>Понедельник-пятница</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Понедельник-пятница</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Через 1 мин.</item>
+        <item>Через 5 мин.</item>
+        <item>Через 10 мин.</item>
+        <item>Через 30 мин.</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Выключить</item>
+        <item>Включить</item>
+        <item>Не изменять</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Никогда</item>
+        <item>В беззвучном режиме</item>
+        <item>Всегда</item>
+    </string-array>
+</resources>

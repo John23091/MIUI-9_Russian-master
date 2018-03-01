@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_apps_entries">
+        <item>Первое пространство</item>
+        <item>Второе пространство</item>
+        <item>Оба пространства</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>Данные приложения будут удалены</item>
+        <item>Данные приложения будут удалены</item>
+        <item>Внимание</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>Данные приложения будут удалены после перемещения в Первое пространство.</item>
+        <item>Данные приложения будут удалены после перемещения во Второе пространство.</item>
+        <item>Приложения будут использоваться в обоих пространствах.</item>
+    </string-array>
+    <string-array name="choose_ask_type">
+        <item>Спрашивать</item>
+        <item>Приложение по умолчанию</item>
+        <item>Клонированное приложение</item>
+    </string-array>
+</resources>

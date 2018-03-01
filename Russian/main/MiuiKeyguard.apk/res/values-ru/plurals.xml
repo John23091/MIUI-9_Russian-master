@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Неверный PUK-код, осталось %d попыток</item>
+        <item quantity="one">Неверный PUK-код, осталась %d попытка</item>
+        <item quantity="few">Неверный PUK-код, осталось %d попытки</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Неверный PIN-код, осталось %d попыток</item>
+        <item quantity="one">Неверный PIN-код, осталась %d попытка</item>
+        <item quantity="few">Неверный PIN-код, осталось %d попытки</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Попробуйте снова через %s сек.</item>
+        <item quantity="one">Попробуйте снова через %s сек.</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Попробуйте снова через %s мин.</item>
+        <item quantity="one">Попробуйте снова через %s мин.</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">До полной зарядки %d мин.​</item>
+        <item quantity="one">До полной зарядки %d мин.​​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">До полной зарядки %d ч.</item>
+        <item quantity="one">До полной зарядки %d ч.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">До полной зарядки %1$d ч. %2$d мин.</item>
+        <item quantity="one">До полной зарядки %1$d ч. %2$d мин.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Хватит на %d мин.</item>
+        <item quantity="one">Хватит на %d мин.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Хватит на %d ч.</item>
+        <item quantity="one">Хватит на %d ч.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Хватит на %1$d ч. %2$d мин.</item>
+        <item quantity="one">Хватит на %1$d ч. %2$d мин.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d ч. %2$d мин.</item>
+        <item quantity="one">%1$d ч. %2$d мин.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>Белая</item>
+        <item>Желтая</item>
+        <item>Серая</item>
+        <item>Бурая</item>
+        <item>Зеленая</item>
+        <item>Синяя</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Вперед/Назад</item>
+        <item>Переключить вкладку</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Стартовая страница</item>
+        <item>Пользовательская</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Телефон</item>
+        <item>Планшет</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Нормальный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Компьютер</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Удалить</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Follow</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Сообщение браузера</item>
+        <item>Follow the Olypmpics with Mi</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>VK</item>
+        <item>http://vk.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>NY Times</item>
+        <item>http://www.nytimes.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>sm</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>sm</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>sm</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_default">
+        <item>google</item>
+        <item>sm</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+        <item>google</item>
+        <item>sm</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="sm">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>https://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+</resources>

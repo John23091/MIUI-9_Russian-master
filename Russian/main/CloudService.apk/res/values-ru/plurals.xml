@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">Выключено %d</item>
+        <item quantity="one">Выключен %d</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Ожидают синхронизации: %d</item>
+        <item quantity="one">Ожидают синхронизации: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">Ожидают синхронизации: %d</item>
+        <item quantity="one">Ожидают синхронизации: %d</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d контактов</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d сообщений</item>
+        <item quantity="one">%d сообщение</item>
+        <item quantity="few">%d сообщения</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d заметок</item>
+        <item quantity="one">%d заметка</item>
+        <item quantity="few">%d заметки</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d записей вызовов</item>
+        <item quantity="one">%d запись вызовов</item>
+        <item quantity="few">%d записи вызовов</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi сетей</item>
+        <item quantity="one">%d Wi-Fi сеть</item>
+        <item quantity="few">%d Wi-Fi сети</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d записей диктофона</item>
+        <item quantity="one">%d запись диктофона</item>
+        <item quantity="few">%d записи диктофона</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d песен</item>
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песни</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d элементов браузера</item>
+        <item quantity="one">%d элемент браузера</item>
+        <item quantity="few">%d элемента браузера</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d элементов календаря</item>
+        <item quantity="one">%d элемент календаря</item>
+        <item quantity="few">%d элемента календаря</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d заблокированных номеров</item>
+        <item quantity="one">%d заблокированный номер</item>
+        <item quantity="few">%d заблокированных номера</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Возобновление через %d ч.</item>
+        <item quantity="one">Возобновление через %d ч.</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Возобновление через %d мин.</item>
+        <item quantity="one">Возобновление через %d мин.</item>
+    </plurals>
+</resources>

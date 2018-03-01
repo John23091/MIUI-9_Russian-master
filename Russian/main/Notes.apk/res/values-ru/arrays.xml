@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Переименовать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Камера</item>
+        <item>Галерея</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Дата создания</item>
+        <item>Дата изменения</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Ник</item>
+        <item>Телефон</item>
+        <item>Почта</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>Интернет-телефон</item>
+        <item>День рождения</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Заметка</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Добро пожаловать в заметки
+"</item>
+        <item>"Нажмите, чтобы создать заметку
+"</item>
+        <item>"Выберите красивую тему
+"</item>
+        <item>"Создайте папку для заметок
+"</item>
+        <item>"Защитите личные заметки
+"</item>
+        <item>"И много других полезных функций!
+  - Синхронизируйте с Mi Cloud
+  - Устанавливайте напоминаний"</item>
+    </string-array>
+</resources>

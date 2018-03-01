@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компонент приложения Сервис</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="privacy_declare_dialog_title">Условия использования</string>
+    <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и информация об операторе будет отправлена на сервера Xiaomi для получения настроек для Ваших тарифов.</string>
+    <string name="miuishare_title_more">Ещё</string>
+    <string name="miuishare_title_share">Поделиться</string>
+    <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Не удалось подключиться к сети</string>
+    <string name="no_network_btn">Повторить</string>
+    <string name="main_toolbar_purchase">Пополнить</string>
+    <string name="usage_sorted_loading_text">Загрузка…</string>
+    <string name="empty">" "</string>
+    <string name="share">Поделиться</string>
+    <string name="open_browser">Открыть в браузере</string>
+    <string name="title_share_link">Поделиться ссылкой</string>
+    <string name="pm_lable_name">О правах администратора</string>
+    <string name="pc_activity_title">Оптимизация аккумулятора</string>
+    <string name="lucky_result_title">红包助手战绩</string>
+    <string name="fastboot_status_locked_info">Fastboot не разблокирован на этом устройстве</string>
+    <string name="fastboot_status_locked_summary">Невозможно получить root-доступ</string>
+    <string name="fastboot_locked_question_1">Почему Fastboot заблокирован?</string>
+    <string name="fastboot_locked_answer_1">Fastboot - это стандартный метод прошивки Xiaomi устройств. Когда устройство находится в режиме Fastboot, все данные устройства могут быть доступны напрямую и удалены. Мы блокируем Fastboot, чтобы Ваши данные оставались в безопасности в случае утери устройства, а также для гарантированной работы функций «Поиска устройства».</string>
+    <string name="fastboot_locked_question_2">Какие существуют риски связанные с разблокировкой Fastboot?</string>
+    <string name="fastboot_locked_answer_2">Если Вы разблокируете Fastboot, Вы больше не сможете удалённо заблокировать устройства или очистить его данные. Поэтому мы не рекомендуем разблокировать Fastboot.</string>
+    <string name="fastboot_locked_question_3">Я ознакомился с рисками и хочу разблокировать устройство. Как мне это сделать?</string>
+    <string name="fastboot_locked_answer_3">Инструмент для разблокировки доступен на сайте MIUI. Чтобы разблокировать устройство, мы должны убедиться, что устройство принадлежит Вам. Поэтому Вы должны войти в Ваш Mi Аккаунт и включить «Поиск устройства».</string>
+    <string name="fastboot_unlock_web_title">Посетите официальный сайт MIUI для получения инструмента для разблокировки.</string>
+    <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+    <string name="game_booster">Игровой режим</string>
+    <string name="gb_weixinpay_can_not_complete">Невозможно совершить платёж. Установите, чтобы продолжить.</string>
+    <string name="gb_alipays_can_not_complete">Невозможно совершить платёж. Установите, чтобы продолжить.</string>
+    <string name="xunyou_pay_webview">Сервисы Xunyou</string>
+</resources>

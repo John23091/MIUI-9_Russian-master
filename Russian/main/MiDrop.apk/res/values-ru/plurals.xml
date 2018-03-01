@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">" Ожидание %1$d файлов…"</item>
+        <item quantity="one">" Ожидание %1$d файла…"</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d файлов от %1$s</item>
+        <item quantity="one">%2$d файл от %1$s</item>
+        <item quantity="few">%2$d файла от %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Получение %2$d файлов от %1$s…</item>
+        <item quantity="one">Получение %2$d файла от %1$s…</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d изображений от %1$s</item>
+        <item quantity="one">%2$d изображение от %1$s</item>
+        <item quantity="few">%2$d изображения от %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Получение %2$d изображений от %1$s…</item>
+        <item quantity="one">Получение %2$d изображения от %1$s…</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d песен от %1$s</item>
+        <item quantity="one">%2$d песня от %1$s</item>
+        <item quantity="few">%2$d песни от %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Получение %2$d песен от %1$s…</item>
+        <item quantity="one">Получение %2$d песни от %1$s…</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d видео от %1$s</item>
+        <item quantity="one">%2$d видео от %1$s</item>
+        <item quantity="few">%2$d видео от %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Получение %2$d видео от %1$s…</item>
+        <item quantity="one">Получение %2$d видео от %1$s…</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d приложений от %1$s</item>
+        <item quantity="one">%2$d приложение от %1$s</item>
+        <item quantity="few">%2$d приложения от %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Получение %2$d​ приложений от %1$s…</item>
+        <item quantity="one">Получение %2$d​ приложения от %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Получение %1$s файлов…</item>
+        <item quantity="one">Получение %1$s файла…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s файлов не передано</item>
+        <item quantity="one">%1$s файл не передан</item>
+        <item quantity="few">%1$s файла не передано</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Получено %1$s файлов</item>
+        <item quantity="one">Получен %1$s файл</item>
+        <item quantity="few">Получено %1$s файла</item>
+    </plurals>
+</resources>

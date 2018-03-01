@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="switch_prompt_content">
+        <item quantity="other">Вы можете включить еще %d элементов поиска</item>
+        <item quantity="one">Вы можете включить еще %d элемент поиска</item>
+        <item quantity="few">Вы можете включить еще %d элемента поиска</item>
+        <item quantity="many">Вы можете включить еще %d элементов поиска</item>
+    </plurals>
+</resources>

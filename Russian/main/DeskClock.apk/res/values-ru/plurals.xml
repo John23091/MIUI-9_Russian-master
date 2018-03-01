@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="zero">"%1$d часов "</item>
+        <item quantity="one">"%1$d час "</item>
+        <item quantity="few">"%1$d часа "</item>
+        <item quantity="many">"%1$d часов "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="zero">"%1$d минут "</item>
+        <item quantity="one">"%1$d минута "</item>
+        <item quantity="few">"%1$d минуты "</item>
+        <item quantity="many">"%1$d минут "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="zero">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">1 сек.</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="zero">Отложить на %d мин.</item>
+        <item quantity="one">Отложить на %d мин.</item>
+        <item quantity="few">Отложить на %d мин.</item>
+        <item quantity="many">Отложить на %d мин.</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="zero">Отложить на %d мин.</item>
+        <item quantity="one">Отложить на %d мин.</item>
+        <item quantity="few">Отложить на %d мин.</item>
+        <item quantity="many">Отложить на %d мин.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="zero">Будильник выключится через %d мин.</item>
+        <item quantity="one">Будильник выключится через %d мин.</item>
+        <item quantity="few">Будильник выключится через %d мин.</item>
+        <item quantity="many">Будильник выключится через %d мин.</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Удалить выбранные будильники?</item>
+        <item quantity="one">Удалить этот будильник?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Удалить выбранные часовые пояса?</item>
+        <item quantity="one">Удалить этот часовой пояс?</item>
+    </plurals>
+</resources>

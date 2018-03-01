@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Удалить %1$d файлов</item>
+        <item quantity="zero">Удалить %1$d файлов</item>
+        <item quantity="one">Удалить %1$d файл</item>
+        <item quantity="two">Удалить %1$d файла</item>
+        <item quantity="few">Удалить %1$d файла</item>
+        <item quantity="many">Удалить %1$d файлов</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" и %1$d папок?"</item>
+        <item quantity="zero">" и %1$d папок?"</item>
+        <item quantity="one">" и %1$d папку?"</item>
+        <item quantity="two">" и %1$d папки?"</item>
+        <item quantity="few">" и %1$d папки?"</item>
+        <item quantity="many">" и %1$d папок?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d файлов</item>
+        <item quantity="zero">пусто</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="two">%d файла</item>
+        <item quantity="few">%d файла</item>
+        <item quantity="many">%d файлов</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Осталось скачать %1$d файлов</item>
+        <item quantity="zero">Осталось скачать %1$d файлов</item>
+        <item quantity="one">Осталось скачать %1$d файл</item>
+        <item quantity="two">Осталось скачать %1$d файла</item>
+        <item quantity="few">Осталось скачать %1$d файла</item>
+        <item quantity="many">Осталось скачать %1$d файлов</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Осталось загрузить %1$d файлов</item>
+        <item quantity="zero">Осталось загрузить %1$d файлов</item>
+        <item quantity="one">Осталось загрузить %1$d файл</item>
+        <item quantity="two">Осталось загрузить %1$d файла</item>
+        <item quantity="few">Осталось загрузить %1$d файла</item>
+        <item quantity="many">Осталось загрузить %1$d файлов</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Осталось загрузить %1$d файлов</item>
+        <item quantity="zero">Осталось загрузить %1$d файлов</item>
+        <item quantity="one">Осталось загрузить %1$d файл</item>
+        <item quantity="two">Осталось загрузить %1$d файла</item>
+        <item quantity="few">Осталось загрузить %1$d файла</item>
+        <item quantity="many">Осталось загрузить %1$d файлов</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="two">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано: %1$d</item>
+        <item quantity="many">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">" (%1$d файлов)"</item>
+        <item quantity="zero">" (пусто)"</item>
+        <item quantity="one">" (%1$d файл)"</item>
+        <item quantity="two">" (%1$d файла)"</item>
+        <item quantity="few">" (%1$d файла)"</item>
+        <item quantity="many">" (%1$d файлов)"</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">" (%1$d файлов)"</item>
+        <item quantity="zero">" (пусто)"</item>
+        <item quantity="one">" (%1$d файл)"</item>
+        <item quantity="two">" (%1$d файла)"</item>
+        <item quantity="few">" (%1$d файла)"</item>
+        <item quantity="many">" (%1$d файлов)"</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d файлов</item>
+        <item quantity="zero"> Нет файлов</item>
+        <item quantity="one"> %1$d файл</item>
+        <item quantity="two"> %1$d файла</item>
+        <item quantity="few"> %1$d файла</item>
+        <item quantity="many"> %1$d файлов</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d минут назад</item>
+        <item quantity="zero">%1$d минут назад</item>
+        <item quantity="one">%1$d минуту назад</item>
+        <item quantity="two">%1$d минуты назад</item>
+        <item quantity="few">%1$d минуты назад</item>
+        <item quantity="many">%1$d минут назад</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d часов назад</item>
+        <item quantity="zero">%1$d часов назад</item>
+        <item quantity="one">%1$d час назад</item>
+        <item quantity="two">%1$d часа назад</item>
+        <item quantity="few">%1$d часа назад</item>
+        <item quantity="many">%1$d часов назад</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="zero">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="two">%1$d дня назад</item>
+        <item quantity="few">%1$d дня назад</item>
+        <item quantity="many">%1$d дней назад</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="zero">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="two">%1$d секунды</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="zero">%1$d минут</item>
+        <item quantity="one">%1$d минута</item>
+        <item quantity="two">%1$d минуты</item>
+        <item quantity="few">%1$d минуты</item>
+        <item quantity="many">%1$d минут</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d часов</item>
+        <item quantity="zero">%1$d часов</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="two">%1$d часа</item>
+        <item quantity="few">%1$d часа</item>
+        <item quantity="many">%1$d часов</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="zero">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="two">%1$d дня</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дней</item>
+    </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">Не удается передать %1$d файлов</item>
+        <item quantity="one">Не удается передать %1$d файл</item>
+        <item quantity="few">Не удается передать %1$d файла</item>
+        <item quantity="many">Не удается передать %1$d файлов</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Удалить %1$d папок?</item>
+        <item quantity="zero">Удалить %1$d папок?</item>
+        <item quantity="one">Удалить эту папку?</item>
+        <item quantity="two">Удалить %1$d папки?</item>
+        <item quantity="few">Удалить %1$d папки?</item>
+        <item quantity="many">Удалить %1$d папок?</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Удалить %1$d файлов?</item>
+        <item quantity="zero">Удалить %1$d файлов?</item>
+        <item quantity="one">Удалить этот файл?</item>
+        <item quantity="two">Удалить %1$d файла?</item>
+        <item quantity="few">Удалить %1$d файла?</item>
+        <item quantity="many">Удалить %1$d файлов?</item>
+    </plurals>
+</resources>

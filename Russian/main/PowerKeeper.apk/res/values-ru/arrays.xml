@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Пользовательские настройки</item>
+        <item>Системные настройки</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Терморежим по умолчанию</item>
+        <item>Производительный режим</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Текущий режим по умолчанию</item>
+        <item>Производительный режим по умолчанию</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
+    </string-array>
+</resources>

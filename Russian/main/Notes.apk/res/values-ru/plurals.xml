@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s заметок</item>
+        <item quantity="zero">%1$s заметок</item>
+        <item quantity="one">%1$s заметку</item>
+        <item quantity="few">%1$s заметки</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s папок</item>
+        <item quantity="zero">%1$s папок</item>
+        <item quantity="one">%1$s папку</item>
+        <item quantity="few">%1$s папки</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Не синхронизировано: %1$s</item>
+        <item quantity="one">Не синхронизировано: %1$s</item>
+    </plurals>
+</resources>

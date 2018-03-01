@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%d приложений с отключёнными уведомлениями</item>
+        <item quantity="zero">Нет приложений с отключёнными уведомлениями</item>
+        <item quantity="one">%d приложение с отключёнными уведомлениями</item>
+        <item quantity="few">%d приложения с отключёнными уведомлениями</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d приложений с включёнными уведомлениями</item>
+        <item quantity="zero">Нет приложений с включёнными уведомлениями</item>
+        <item quantity="one">%d приложение с включёнными уведомлениями</item>
+        <item quantity="few">%d приложения с включёнными уведомлениями</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">Активно %1$d переключателей что выше</item>
+        <item quantity="one">Активно %1$d переключатель что выше</item>
+        <item quantity="few">Активно %1$d переключателя что выше</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы в %1$d шагах от становления разработчиком</item>
+        <item quantity="one">Вы в %1$d шаге от становления разработчиком</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Настроено %1$d отпечатков пальцев</item>
+        <item quantity="one">Настроен %1$d отпечаток пальца</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и Вам придется обратиться к оператору связи.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Приложений: %d</item>
+        <item quantity="one">Приложений: %d</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Изменение сигналы тревоги только с %1$d минут (до %2$s)</item>
+        <item quantity="one">Изменение сигналы тревоги только в течение одной минуты до %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Изменение сигналы тревоги только с %1$d часов до %2$s</item>
+        <item quantity="one">Изменение сигналы тревоги только в течение одного часа до %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d разрешено</item>
+        <item quantity="one">%d разрешено</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d из %2$d разрешено</item>
+        <item quantity="one">%1$d из %2$d разрешено</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d разрешено</item>
+        <item quantity="one">%d разрешено</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">No app can open any supported link</item>
+        <item quantity="one">One app can open its supported links</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d приложений не экономят заряд</item>
+        <item quantity="one">%d приложение не экономит заряд</item>
+        <item quantity="few">%d приложения не экономят заряд</item>
+        <item quantity="many">%d приложений не экономят заряд</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d приложения используют память %2$s</item>
+        <item quantity="one">1 Приложение использует память %2$s</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d приложениям разрешен неограниченный мобильный интернет, если включена экономия трафика</item>
+        <item quantity="one">%1$d приложению разрешен неограниченный мобильный интернет, если включена экономия трафика</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">Найдено %d угроз</item>
+        <item quantity="one">Найдена %d угроза</item>
+        <item quantity="few">Найдено %d угрозы</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d приложениям разрешён автозапуск</item>
+        <item quantity="one">%d приложению разрешён автозапуск</item>
+        <item quantity="few">%d приложениям разрешён автозапуск</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN-код должен быть из %d цифр</item>
+        <item quantity="one">PIN-код должен быть из %d цифры</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d общих сетей</item>
+        <item quantity="one">%d общая сеть</item>
+        <item quantity="few">%d общие сети</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d устройств</item>
+        <item quantity="one">%d устройство</item>
+        <item quantity="few">%d устройства</item>
+        <item quantity="many">%d устройств</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d пользователей подключено</item>
+        <item quantity="one">%1$d пользователь подключён</item>
+        <item quantity="few">%1$d пользователя подключено</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Вы в %1$d шагах от информации об устройстве</item>
+        <item quantity="one">Вы в %1$d шаге от информации об устройстве</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Вы в %1$d шагах от входа в инженерное меню</item>
+        <item quantity="one">Вы в %1$d шаге от входа в инженерное меню</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Вы в %1$d шагах от создания отчёта</item>
+        <item quantity="one">Вы в %1$d шаге от создания отчёта</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Отключать для %d приложений</item>
+        <item quantity="one">Отключать для %d приложения</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Не отключать для %d приложений</item>
+        <item quantity="one">Не отключать для %d приложения</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN-код должен быть не менее %d цифр</item>
+        <item quantity="one">PIN-код должен быть не менее %d цифры</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN-код должен быть не более %d цифр</item>
+        <item quantity="one">PIN-код должен быть не более %d цифры</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Соедините как минимум %d точек. Повторите.</item>
+        <item quantity="one">Соедините как минимум %d точку. Повторите.</item>
+        <item quantity="few">Соедините как минимум %d точки. Повторите.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Слишком много неудачных попыток. Повторите через %d сек.</item>
+        <item quantity="one">Слишком много неудачных попыток подряд. Повторите через %d сек.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Повторите попытку через %d сек.</item>
+        <item quantity="one">Повторите попытку через %d сек.</item>
+    </plurals>
+</resources>

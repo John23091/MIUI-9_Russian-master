@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">"Зависит от  спецификация оборудования и должно быть назначено только для OEM-приложений или сервисов."</string>
+    <string name="label">Получение доступа к услугам и ресурсам IZAT.</string>
+</resources>
